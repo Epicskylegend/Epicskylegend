@@ -5,7 +5,7 @@
 ### :zap: I'm also into video games, sneakers, and anime.
 📫 How to find me: 
 
- - :office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
+ - :office: [LinkedIn](https://www.linkedin.com/in/joshua-adebayo-/)
  - 📫Email: adeba003@gmail.com
 
 
