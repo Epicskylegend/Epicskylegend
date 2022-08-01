@@ -3,8 +3,13 @@
 ### I have experience programming in Java, Python, and HTML. 
 ### Additionally, I have knowledge of bash scripting which I've used to automated commands and I follow some of the industry's best practices. 
 
+📫 How to find me: 
+ 
+ - :office: [LinkedIn](https://www.linkedin.com/in/joshua-adebayo-/)
+ - 📫Email: adeba003@gmail.com
+
+
 
 [![Joshua Adebayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Epicskylegend&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Epicskylegend)](https://github.com/Epicskylegend/github-readme-stats)
