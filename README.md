@@ -5,7 +5,7 @@
 ### :zap: I'm also into video games, sneakers, and anime.
 📫 How to find me: 
 
- ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+ - :office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
  - 📫Email: adeba003@gmail.com
 
 
