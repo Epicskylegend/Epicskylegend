@@ -2,7 +2,7 @@
 ### 🧠 I'm passionate about problem solving, and learning new techniques to help conquer any obstacles I'm opposed with.
 ### 🐍 I have experience programming in Java, Python, and HTML. 
 ### 📔 Additionally, I have knowledge of bash scripting which I've used to automate commands.
-### 🎮 I'm also into video games, sneakers, and anime.
+### 🎮 I'm also into video games, sneakers, and music.
 🗺️ How to find me: 
 
  - :office: [LinkedIn](https://www.linkedin.com/in/joshua-adebayo-/)
