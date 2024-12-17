@@ -1,4 +1,4 @@
-## 💡Hi, this is Joshua but most people call me Josh. I graduated with a Bachelors in compter science at Metropolitan State University.
+## 💡Hi, this is Joshua but most people call me Josh. I graduated with a bachelors degree in computer science at Metropolitan State University.
 ### 🧠 I love solving ambigious problems and learning new techniques to help conquer any obstacles I'm opposed with.
 ### 🐍 I have experience programming in Java, Python, C#, SQL, and HTML. 
 ### 📔 Additionally, I have knowledge of bash scripting which I've used to automate command to push code into production.
