@@ -1,4 +1,5 @@
 ## 💡Hi, this is Joshua but most people call me Josh. I graduated from Metropolitan State University with a bachelors degree in computer science. 
+### ⌨️ I work as a software engineer at SPS Commerce.
 ### 🧠 I love solving ambigious problems and learning new techniques to help conquer any obstacles I'm opposed with.
 ### 🐍 I have experience programming in Java, Python, C#, and SQL.
 ### 💻 I've done professional software development in Windows, Linux, and Mac.
